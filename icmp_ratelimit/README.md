@@ -27,8 +27,9 @@ chmod +x /path/to/icmp_ratelimit.sh
 ## Other links
 
 - [Bleeping Comptuer](https://www.bleepingcomputer.com/news/security/dns-cache-poisoning-attacks-return-due-to-linux-weakness/)
+- [ISC Blog](https://www.isc.org/blogs/2020-saddns/)
 - [Ars Technica article](https://arstechnica.com/information-technology/2020/11/researchers-find-way-to-revive-kaminskys-2008-dns-cache-poisoning-attack/)
-- [Sad DNS](https://789498207.www.saddns.net/)
+- [Sad DNS](https://www.saddns.net/)
 - [the paper](https://dl.acm.org/doi/pdf/10.1145/3372297.3417280)
 - [Kernel commit](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/net/ipv4/icmp.c?h=v5.10-rc3&id=b38e7819cae946e2edf869e604af1e65a5d241c5)
 
